@@ -1,3 +1,29 @@
 .navbar{
   background-color: black;
 }
+.textbox{
+  background-color: blue;
+  height: 200px;
+}
+.img{
+  background-color: purple;
+}
+.icon{
+  background-color: purple;
+  margin: auto;
+flex: 100%;
+}
+
+img{
+  width: 100%;
+}
+.paraimg{
+  width: 100%;
+  height: 100%;
+  margin: auto;
+}
+.carousel-inner{
+  width: 100%;
+  height: 400px;
+  margin: auto;
+}
